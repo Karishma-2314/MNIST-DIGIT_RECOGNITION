@@ -1,5 +1,5 @@
 # Digit_Recognition_Web_App
- link :  https://abhinaykomera.github.io/Digit-Recognition-Webapp/
+ link :  https://karishma-2314.github.io/MNIST-DIGIT_RECOGNITION/
 <br>
 <h3>Structure of App</h3>
 <h2> keras - > Tensorflow.js ->(html + css + javascript)->github pages</h1>
